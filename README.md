@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**amandadias15/amandadias15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Amanda Dias 💕
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organiação e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on Alura
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Vocẽ entrar em contato comigo 📫
+
+- amandadias2819@gmail.com
+
+- ou @am4ndakkj no instagram 😻
+- ![](https://media1.tenor.com/m/ln_XXEbYeTsAAAAC/dog-funny.gif)
